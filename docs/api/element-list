@@ -1,0 +1,7 @@
+edu.cnm.deepdive.rps
+edu.cnm.deepdive.rps.controller
+edu.cnm.deepdive.rps.hilt
+edu.cnm.deepdive.rps.model.domain
+edu.cnm.deepdive.rps.service
+edu.cnm.deepdive.rps.view
+edu.cnm.deepdive.rps.viewmodel

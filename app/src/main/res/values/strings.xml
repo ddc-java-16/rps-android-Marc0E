@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2023 CNM Ingenuity, Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+  <!--
+    DO NOT add an app_name property; it is created automatically during the build, from the value of
+    the appName property in gradle.properties.
+  -->
+
+
+  <string name="run">Run/resume simulation</string>
+  <string name="pause">Pause simulation</string>
+  <string name="new_ecosystem">Create new ecosystem</string>
+  <string name="settings">Settings</string>
+
+  <string name="terrain_size_key">terrain_size</string>
+  <string name="terrain_size_title">Terrain size (height and width)</string>
+  <string name="toroidal_topology_key">toroidal_topology</string>
+  <string name="toroidal_topology_title">Toroidal terrain</string>
+  <string name="toroidal_topology_summary_on">Terrain is toroidal (doughnut-shaped), wrapping vertically and horizontally.</string>
+  <string name="toroidal_topology_summary_off">Terrain is box-shaped, with hard boundaries on all sides.</string>
+  <string name="num_breeds_key">num_breeds</string>
+  <string name="num_breeds_title">Number of breeds in ecosystem</string>
+  <string name="ecosystem_fragment_label">RPS Ecosystem</string>
+  <string name="settings_fragment_label">RPS Settings</string>
+  <string name="swap_likelihood_key">swap_likelihood</string>
+  <string name="swap_likelihood_title">Likelihood of random swaps</string>
+  <string name="swap_likelihood_summary">This is the probability (expressed as a percent) that each iteration will include a swap of two randomly selected elements.</string>
+  <string name="run_speed_key">run_speed</string>
+  <string name="run_speed_title">Speed of ecosystem simulation</string>
+
+</resources>

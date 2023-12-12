@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <integer name="terrain_size_min">10</integer>
+  <integer name="terrain_size_max">100</integer>
+  <integer name="terrain_size_default">20</integer>
+  <integer name="num_breeds_min">3</integer>
+  <integer name="num_breeds_max">9</integer>
+  <integer name="num_breeds_default">3</integer>
+  <integer name="swap_likelihood_min">0</integer>
+  <integer name="swap_likelihood_max">10</integer>
+  <integer name="swap_likelihood_default">0</integer>
+  <integer name="run_speed_min">1</integer>
+  <integer name="run_speed_max">5</integer>
+  <integer name="run_speed_default">3</integer>
+
+</resources>

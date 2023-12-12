@@ -1,0 +1,24 @@
+remote_theme: ddc-java/ddc-day
+repository_links:
+  enabled: false
+page_navigator:
+  enabled: true
+titles_from_headings:
+  enabled: false
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+assignment:
+  url: https://classroom.github.com/a/_VNYu78h
+  format: Android Gradle Java project
+
+title: "RPS Ecosystem"
+description: "An Android app simulating an idealized intransitive ecosystem."
+author:
+  name: "Nick Bennett"
+
+# Do not change the following line.
+  copyright: false
